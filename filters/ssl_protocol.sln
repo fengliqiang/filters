@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "https_test", "https_test\https_test.vcproj", "{4D412A6F-C1DF-4C1D-8570-B28BCB781949}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ssl_protocol", "ssl_protocol\ssl_protocol.vcproj", "{0AC3C679-2098-4C24-A493-D9C85B070C16}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tcp_module", "tcp_module\tcp_module.vcproj", "{D8643BF3-9475-48CB-BC73-D28E17C01C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D412A6F-C1DF-4C1D-8570-B28BCB781949}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D412A6F-C1DF-4C1D-8570-B28BCB781949}.Debug|Win32.Build.0 = Debug|Win32
+		{4D412A6F-C1DF-4C1D-8570-B28BCB781949}.Release|Win32.ActiveCfg = Release|Win32
+		{4D412A6F-C1DF-4C1D-8570-B28BCB781949}.Release|Win32.Build.0 = Release|Win32
+		{0AC3C679-2098-4C24-A493-D9C85B070C16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0AC3C679-2098-4C24-A493-D9C85B070C16}.Debug|Win32.Build.0 = Debug|Win32
+		{0AC3C679-2098-4C24-A493-D9C85B070C16}.Release|Win32.ActiveCfg = Release|Win32
+		{0AC3C679-2098-4C24-A493-D9C85B070C16}.Release|Win32.Build.0 = Release|Win32
+		{D8643BF3-9475-48CB-BC73-D28E17C01C1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8643BF3-9475-48CB-BC73-D28E17C01C1D}.Debug|Win32.Build.0 = Debug|Win32
+		{D8643BF3-9475-48CB-BC73-D28E17C01C1D}.Release|Win32.ActiveCfg = Release|Win32
+		{D8643BF3-9475-48CB-BC73-D28E17C01C1D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
